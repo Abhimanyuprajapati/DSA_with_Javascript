@@ -52,3 +52,7 @@ console.log(SecondLargestElement([10, 5, 20, 8]));
 console.log(SecondLargestElement([1, 2]));
 console.log(SecondLargestElement([5]));
 console.log(SecondLargestElement([-2, -3, -1, -4]));
+
+// Complexity:
+// Time: O(n) where n is the number of elements in the array
+// Space: O(1) ✅
