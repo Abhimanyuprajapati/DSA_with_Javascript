@@ -21,4 +21,7 @@ doing again javascript dsa
 17. firstRepeatingChar
 18. maxConsecutiveOnes
 19. rotateArray
+20. majorityElement
+21. singleNumber
+22. 
  -->
